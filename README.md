@@ -1,4 +1,3 @@
-test
 # **Basic Full Stack Architecture Starter**
 
 This is a small toy project that I prepared to give some exercises to new colleagues who are approaching web development for the first time, so I can give them a starting point that allows me over time to be able to explain everything to them.
